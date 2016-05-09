@@ -1,0 +1,19 @@
+Materials:
+
+-Rail Guides. like "Igus" (http://www.igus.es/wpck/6189/filmtechnology)
+-Camera Ball and Socket Tripod Head
+-Stepper motor NEMA 17
+-Aluminium pulley GT2.
+-GT2 timing belt 6mmx2m
+-EasyDriver (https://www.sparkfun.com/products/12779)
+-Arduino Micro
+-PowerBoost 1000 Charger - Rechargeable 5V Lipo USB Boost(https://www.adafruit.com/products/2465)
+-Potenciometer
+-3 bottoms
+-wire
+-608zz Axial Bearing x2
+-Female DC Power adapter Jack.
+-Bluetooth (Bluefruit EZ-Link), I used this, but you can use any other. HC-05
+
+You can power the arduino with LiPo battery
+and feed the driver + Motor nema with 8 AA batteries holder case .
